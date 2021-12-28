@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nvaseka
-- 👀 I’m interested in CSS - HTML
-- 🌱 I’m currently learning CSS
-- 📫 How to reach me <a href="https://instagram.com/hlseka">Click</a>
+ <h1>👋 Hi, I’m @nvaseka</h1>
+  <h3>developer for turkey</h3>
+
+ 📫 How to reach me <a href="https://instagram.com/hlseka">Click</a>
